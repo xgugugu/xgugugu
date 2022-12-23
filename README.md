@@ -11,4 +11,4 @@
 
 #### Languages
 
-[![](https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=cplusplus)]() [![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript)]() [![](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5)]() [![](https://img.shields.io/badge/-NodeJS-%23339933?logo=node.js)]() [![](https://img.shields.io/badge/-Java-%23007396?logo=openjdk)]() [![](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux)]() [![](https://img.shields.io/badge/-Rust-%23000000?logo=rust)]() [![](https://img.shields.io/badge/-Dlang-%23B03931?logo=d)]()
+[![](https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=cplusplus)]() [![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript)]() [![](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5)]() [![](https://img.shields.io/badge/-NodeJS-%23339933?logo=node.js)]() [![](https://img.shields.io/badge/-Java-%23007396?logo=openjdk)]() [![](https://img.shields.io/badge/-Rust-%23000000?logo=rust)]() [![](https://img.shields.io/badge/-Dlang-%23B03931?logo=d)]()
